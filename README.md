@@ -1,41 +1,63 @@
-# **🚀 Decode Labs Internship** 
+# 🚀 Decode Labs Internship
 
-Welcome to my Decode Labs Internship repository!
-This repository contains all the projects completed during my internship at Decode Labs. Each project demonstrates my learning, practical implementation, and problem-solving skills using Python and Artificial Intelligence concepts.
+Welcome to my **Decode Labs Internship** repository.
 
-👩‍💻 About Me
+This repository contains all the projects completed during my internship. Each project demonstrates my learning and practical implementation of Python and Artificial Intelligence concepts.
 
-**Name: Srushti Jamma**
+---
 
-I am a Computer Science graduate passionate about Python, Artificial Intelligence, and Generative AI. This repository showcases my internship journey and the projects I built while learning and applying new technologies.
+## 👩‍💻 About Me
 
-📂 Projects
+Hi, I'm **Srushti Jamma**, a Computer Science graduate passionate about Python, Artificial Intelligence, and Generative AI.
 
-📌** P1 - Simple Chatbot**
+This repository showcases my internship journey and the projects I built while learning new technologies.
+
+---
+
+## 📂 Projects
+
+### 🚀 P1 - Simple Chatbot
+
 A basic rule-based chatbot developed using Python.
+
+🔗 Open the **P1_Simple_Chatbot** folder to view the complete project.
+
+---
+
+### 🌸 P2 - Data Classification Using AI
+
+A Machine Learning project that classifies Iris flowers using the Decision Tree Classification algorithm.
+
+🔗 Open the **P2_Data_Classification_Using_AI** folder to view the complete project.
+
+---
 
 ## 🛠️ Technologies Used
 
 - Python
 - Git
 - GitHub
-- VS Code
-- Artificial Intelligence
+- Scikit-learn
+- Machine Learning
 
-## 🎋  **Features**
-
-- Interactive conversation
-- Predefined responses
-- Beginner-friendly chatbot implementation
+---
 
 ## 🎯 Internship Goal
 
-- Build practical AI projects
-- Strengthen Python programming
-- Learn Git & GitHub
-- Develop industry-ready applications
+- Build AI-based applications
+- Improve Python programming skills
+- Learn Machine Learning fundamentals
+- Practice Git & GitHub
+- Develop industry-ready projects
+
+---
 
 ## 📬 Contact
 
-- GitHub: https://github.com/srushtijamma123
-- LinkedIn: https://www.linkedin.com/in/srushti-jamma-850363396
+**Srushti Jamma**
+
+📧 Email: srushtijammadc@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/srushti-jamma-850363396
+
+🔗 GitHub: https://github.com/srushtijamma123
