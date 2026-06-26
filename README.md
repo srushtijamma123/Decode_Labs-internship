@@ -1,4 +1,4 @@
-**🚀 Decode Labs Internship** 
+# **🚀 Decode Labs Internship** 
 
 Welcome to my Decode Labs Internship repository!
 This repository contains all the projects completed during my internship at Decode Labs. Each project demonstrates my learning, practical implementation, and problem-solving skills using Python and Artificial Intelligence concepts.
