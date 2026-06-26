@@ -25,7 +25,6 @@ The objective of this project is to build a basic classification model using the
 
 - Python
 - Scikit-learn
-- Pandas
 - Decision Tree Classifier
 
 ---
