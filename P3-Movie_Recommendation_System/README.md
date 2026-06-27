@@ -34,6 +34,8 @@ The application recommends movies based on the user's selected Genre, Language, 
 
 ### 📂 Project Structure
 
+```
+
 P3-Movie_Recommendation_System/
 │
 ├── app.py
@@ -44,31 +46,41 @@ P3-Movie_Recommendation_System/
 ├── uv.lock
 └── .gitignore
 
+```
+
 ---
 
 ### ▶️ How to Run
 
 Clone the repository
-
+```
 git clone <repository-url>
-
+```
 Move into the project folder
 
+```
 cd P3-Movie_Recommendation_System
+```
 
 Create virtual environment
 
+```
 uv sync
+```
 
 Activate virtual environment
 
 Windows
 
+```
 .venv\Scripts\activate
+```
 
 Run the application
 
+```
 streamlit run app.py
+```
 
 ---
 
