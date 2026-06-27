@@ -16,19 +16,45 @@ This repository showcases my internship journey and the projects I built while l
 
 ## 📂 Projects
 
-### 🚀 P1 - Simple Chatbot
+## 🤖 P1 - Simple Chatbot
 
-A basic rule-based chatbot developed using Python.
+A beginner-friendly rule-based chatbot built using Python.
 
-🔗 Open the **P1_Simple_Chatbot** folder to view the complete project.
+### ✨ Features
+
+- Interactive chatbot
+- Responds using predefined rules
+- Built with Python if-else conditions
+
+### 🛠️ Tech Stack: Python
 
 ---
 
-### 🌸 P2 - Data Classification Using AI
+## 🌸 P2 - Data Classification Using AI
 
-A Machine Learning project that classifies Iris flowers using the Decision Tree Classification algorithm.
+A Machine Learning project that classifies Iris flowers using the Decision Tree algorithm.
 
-🔗 Open the **P2_Data_Classification_Using_AI** folder to view the complete project.
+### ✨ Features
+
+- Iris flower classification
+- Decision Tree model
+- Predicts flower species
+
+### 🛠️ Tech Stack: Python, Pandas, Scikit-learn
+
+---
+
+## 🎬 P3 - AI Movie Recommendation System
+
+A Streamlit-based movie recommendation system that suggests movies based on user preferences.
+
+### ✨ Features
+
+- Filter movies by Genre, Language, and Mood
+- Interactive Streamlit interface
+- Displays matching movie recommendations
+
+### 🛠️ Tech Stack: Python, Streamlit, Pandas
 
 ---
 
