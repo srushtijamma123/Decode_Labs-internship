@@ -103,8 +103,12 @@ streamlit run app.py
 
 ---
 
-### 👩‍💻 Author
+## 👩‍💻 Author
 
-Srushti Jamma
+**Srushti Jamma**
 
-GitHub: https://github.com/srushtijamma123
+📧 Email: srushtijammadc@gmail.com
+
+🔗 GitHub: https://github.com/srushtijamma123
+
+💼 LinkedIn: https://www.linkedin.com/in/srushti-jamma-850363396
